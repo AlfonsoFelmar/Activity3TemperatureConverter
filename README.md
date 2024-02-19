@@ -1,2 +1,2 @@
-# Activity3TemperatureConverter
- 
+# Activity 3 Temperature Converter
+ Felmar M. Alfonso
